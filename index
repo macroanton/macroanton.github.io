@@ -1,0 +1,24 @@
+<html>
+    <head>
+    <style>
+     li{
+         color: rgb(116, 145, 37);
+         background-color: blue;
+     }   
+        </style>
+     color: 
+    </jead>
+    <body>
+            <h1> My Book stuff</h1>
+            <ol>
+                <li>Harry Potter</li>
+                <li>The Prophet<li>
+</ol>
+
+<h2> Famous characters</h2>
+<ol>
+        <li>Gandalf</li>
+        <li>Dorah</li>
+        <li>Voldemort</li>
+    <ol>
+        
