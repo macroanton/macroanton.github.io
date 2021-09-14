@@ -2,9 +2,10 @@
     <head>
     <style>
      li{
-         color: rgb(116, 145, 37);
-         background-color: blue;
+         
      }   
+     .menu {color: rgb(116, 145, 37);
+         background-color: blue;}
         </style>
      color: 
     </jead>
@@ -17,8 +18,7 @@
 
 <h2> Famous characters</h2>
 <ol>
-        <li>Gandalf</li>
+        <li class=menu>Gandalf</li>
         <li>Dorah</li>
         <li>Voldemort</li>
     <ol>
-        
