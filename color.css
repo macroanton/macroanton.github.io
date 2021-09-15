@@ -26,3 +26,7 @@
 a {
     color: red;
 }
+
+a:hover { 
+    background-color: rgb(85, 34, 167);
+  }
